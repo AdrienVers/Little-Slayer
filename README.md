@@ -23,11 +23,11 @@ Vous accédez enfin à la partie !
 
 En ce qui concerne les touches, elles sont les suivantes : 
 
-Q : Aller à gauche
-D : Aller à droite
-Z : Sauter
-M : Ouvrir/Fermer le menu des armes
-R : Viser vers le haut avec l’arme
-F : Viser vers le bas avec l’arme
+Q : Aller à gauche,
+D : Aller à droite,
+Z : Sauter,
+M : Ouvrir/Fermer le menu des armes,
+R : Viser vers le haut avec l’arme,
+F : Viser vers le bas avec l’arme.
 
 C’est à peu près tout ! Bon jeu !
