@@ -6,6 +6,11 @@
 Le jeu Little Slayer est un jeu de stratégie et d'artillerie réalisé en C# sur le moteur de jeu Unity.
 J'ai développé ce jeu lors du premier confinement dû au Covid-19, en m'inspirant du jeu Worms développé par la société britannique Team17.
 
+## <p>Descriptif des principaux dossiers <span>:clipboard:</span></p>
+
+Dans la partie « Assets » vous retrouverez les scripts, images, animations, préfabriqués et scènes du projet.
+Dans la partie « Exécution du jeu » vous retrouverez les dossiers et fichiers nécessaires à l'exécution du jeu sur votre ordinateur.
+
 ## <p>Installation et mise en route du jeu <span>:clipboard:</span></p>
 
 Pour démarrer le jeu, téléchargez le dossier "Exécution du jeu", dans ce dossier, exécutez le fichier LittleSlayer.exe sur votre ordinateur.
